@@ -45,8 +45,7 @@ CREATE TABLE dbo.#dim (
 	Style101 AS CONVERT(CHAR(10), [date], 101)
 );
 
-select *
-from dbo.#dim
+
 
 -- use the catalog views to generate as many rows as we need
 
