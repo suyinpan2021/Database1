@@ -2,7 +2,7 @@
    @Author       Min Wu
    @Created      2021-01-06
    @Purpose      This is a date dimension that we use to store 30 years data since 2005-01-01
-
+   This is a test.
 */
 USE [SBCBIDW]
 GO
